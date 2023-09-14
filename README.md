@@ -6,6 +6,7 @@ The project provides the core code for 4mCPred-GSIMP to predict 4mC sites in the
 - The mouse_checkpoint.pt file holds the weights of the model.
 - The utils.py file contains some utility functions.
 - The predict_mouse.ipynb file shows how the final model will run on the test set and the predicted results.
+- The train_mouse.ipynb file contains the training code for the model
 # Requirements
 - python3
 - torch 2.0.0+cu118
