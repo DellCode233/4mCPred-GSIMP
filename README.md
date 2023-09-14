@@ -11,3 +11,5 @@ The project provides the core code for 4mCPred-GSIMP to predict 4mC sites in the
 - python3
 - torch 2.0.0+cu118
 - numpy 1.23.5
+- pandas
+- torchkeras
